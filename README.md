@@ -6,13 +6,11 @@
 
 <ul>
   <li>🎓 <b>Formación:</b> Estudiante avanzado de la Licenciatura en Sistemas en la <a href="https://www.unla.edu.ar/" target="_blank">UNLa</a>.</li>
-  <li>💻 <b>Actualmente enfocado en:</b> desarrollo <b>Full Stack</b> con <b>Spring Boot</b>, <b>React</b>, <b>Next.js</b> y <b>MongoDB/MySQL</b>.</li>
-  <li>🚀 <b>Proyectos destacados:</b> UniComunidad, Sistema de tickets.
-  <li>📘 <b>Actualmente aprendiendo:</b> Arquitectura de Software, Seguridad, redes y gestion de proyectos.</li>
+  <li>💻 <b>Actualmente enfocado en:</b> desarrollo <b>Full Stack</b> con <b>Spring Boot</b>, <b>React</b>, <b>MongoDB/MySQL/PostgreSQL</b>.</li>
+  <li>📘 <b>Actualmente aprendiendo:</b> Arquitectura de Software, Pastrones de diseño, Seguridad, redes y gestion de proyectos.</li>
   <li>🎯 <b>Busco oportunidades en:</b> desarrollo <b>Back-End</b> o <b>Full Stack</b> (Spring / React).</li>
-  <li>💬 <b>Preguntame sobre:</b> APIs REST, JWT, metodologías ágiles (Scrum/Kanban) o estructura de proyectos.</li>
   <li>📫 <b>Cómo contactarme:</b> <a href="mailto:rodriguezluciano761@gmail.com">rodriguezluciano761@gmail.com</a> · <a href="https://www.linkedin.com/in/luciano-ezequiel-rodriguez/" target="_blank">LinkedIn</a>.</li>
-  <li>⚡ <b>Dato curioso:</b> me apasiona la tecnología, el diseño y crear soluciones útiles para la comunidad universitaria. 🎓</li>
+  <li>⚡ <b>Dato curioso:</b> me apasiona la tecnología (mas que nada el software), el diseño, la programacion y crear soluciones útiles para la comunidad universitaria. 🎓</li>
 </ul>
 
 <br>
@@ -29,3 +27,40 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+---
+
+## 🏆 Proyectos destacados
+
+Aquí algunos de los sistemas/aplicaciones más representativos que desarrollé:
+
+- <div>
+  <a href="https://github.com/lucianorodriguez1/OO2_GRUPO13">Sistema de tickets</a>
+  <p></p>
+</div>
+
+- <div>
+  <a href="https://github.com/lucianorodriguez1/curso-back-coder">E-commerce</a>
+  <p></p>
+</div>
+
+- <div>
+  <a href="https://github.com/lucianorodriguez1/sistema-estudiantil">Sistema estudiantil</a>
+  <p></p>
+</div>
+
+---
+
+## 📚 Guías / Conceptos / Documentación
+
+En estos repositorios organizo conocimientos, tutoriales o ejemplos sobre conceptos de informática, buenas prácticas, seguridad, microservicios, etc — ideales para quien quiere aprender.
+
+- **[Conceptos-Informática-General](https://github.com/lucianorodriguez1/sistema-estudiantil)** — Resúmenes de conceptos básicos/avanzados de estructuras de datos, algoritmos, diseño, etc.  
+- **[Seguridad-Auth-Roles-JWT](https://github.com/lucianorodriguez1/springboot-oauth2)** — Guías sobre OAuth, JWT, roles/permisos, mejores practicas de seguridad.  
+- **[Spring-Boot-Microservicios-JPA](https://github.com/lucianorodriguez1/sistema-estudiantil-microservicios)** — Ejemplos y explicación sobre microservicios.  
+
+> Cada uno de estos repos está documentado con un buen `README.md`, explicando qué contiene, cómo se usa, ejemplos, qué se aprende, etc — ideal para quienes quieren aprender, revisar o contribuir.
+
+
+
+
