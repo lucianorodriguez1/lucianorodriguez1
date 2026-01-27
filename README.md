@@ -10,8 +10,6 @@
   <li>📘 <b>Actualmente aprendiendo:</b> Arquitectura de Software, Pastrones de diseño, Seguridad, redes y gestion de proyectos.</li>
   <li>🎯 <b>Busco oportunidades en:</b> desarrollo <b>Back-End</b> o <b>Full Stack</b> (Spring / React).</li>
   <li>📫 <b>Cómo contactarme:</b> <a href="mailto:rodriguezluciano761@gmail.com">rodriguezluciano761@gmail.com</a> · <a href="https://www.linkedin.com/in/luciano-ezequiel-rodriguez/" target="_blank">LinkedIn</a>.</li>
-  <li>⚡ <b>Dato curioso:</b> me apasiona la tecnología (mas que nada el software), el diseño, la programacion y crear soluciones útiles para la comunidad universitaria. 🎓</li>
-</ul>
 
 <br>
 <h3 align="left">Lenguajes y herramientas:</h3>
@@ -50,16 +48,6 @@ Aquí algunos de los sistemas/aplicaciones más representativos que desarrollé:
 </div>
 
 ---
-
-## 📚 Guías / Conceptos / Documentación
-
-En estos repositorios organizo conocimientos, tutoriales o ejemplos sobre conceptos de informática, buenas prácticas, seguridad, microservicios, etc — ideales para quien quiere aprender.
-
-- **[Conceptos-Informática-General](https://github.com/lucianorodriguez1/sistema-estudiantil)** — Resúmenes de conceptos básicos/avanzados de estructuras de datos, algoritmos, diseño, etc.  
-- **[Seguridad-Auth-Roles-JWT](https://github.com/lucianorodriguez1/springboot-oauth2)** — Guías sobre OAuth, JWT, roles/permisos, mejores practicas de seguridad.  
-- **[Spring-Boot-Microservicios-JPA](https://github.com/lucianorodriguez1/sistema-estudiantil-microservicios)** — Ejemplos y explicación sobre microservicios.  
-
-> Cada uno de estos repos está documentado con un buen `README.md`, explicando qué contiene, cómo se usa, ejemplos, qué se aprende, etc — ideal para quienes quieren aprender, revisar o contribuir.
 
 
 
